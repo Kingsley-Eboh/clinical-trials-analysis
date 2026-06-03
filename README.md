@@ -12,12 +12,12 @@
 ![Status](https://img.shields.io/badge/Status-In_Progress-orange)
 
 # Clinical Trials Analysis
-## Phase Success Rates, Sponsor Performance and Recruitment Trends | January 2015 to December 2024
+## Phase Completion Rates, Sponsor Performance and Recruitment Trends | January 2015 to December 2024
 
 ---
 
 ## Project Overview
-This project examined 10 years of clinical trial activity across major pharmaceutical sponsors using 50,000 interventional trial records retrieved from the ClinicalTrials.gov API. The analysis covered all therapeutic areas with focus on oncology, cardiovascular, respiratory and vaccines, examining phase success rates, sponsor performance profiles, recruitment trends and trial duration patterns across 2015 to 2024.
+This project examined 10 years of clinical trial activity across major pharmaceutical sponsors using 50,000 interventional trial records retrieved from the ClinicalTrials.gov API. The analysis covered all therapeutic areas with focus on oncology, cardiovascular, respiratory and vaccines, examining phase completion rates, sponsor performance profiles, recruitment trends and trial duration patterns across 2015 to 2024.
 
 ---
 
