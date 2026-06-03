@@ -174,31 +174,31 @@ Open powerbi/clinical_trials_dashboard.pbix in Power BI Desktop and update the C
 ## Evidence
 
 ### Analysis 1 — Trial Distribution by Phase
-[![analysis1](figures/analysis01_trial_distribution_by_phase.png)](figures/analysis01_trial_distribution_by_phase.png)
+[![analysis1](figures/analysis1_trial_distribution_by_phase.png)](figures/analysis1_trial_distribution_by_phase.png)
 
 ### Analysis 2 — Trial Status Distribution
-[![analysis2](figures/analysis02_trial_status_distribution.png)](figures/analysis02_trial_status_distribution.png)
+[![analysis2](figures/analysis2_trial_status_distribution.png)](figures/analysis2_trial_status_distribution.png)
 
 ### Analysis 3 — Trial Distribution by Therapeutic Area
-[![analysis3](figures/analysis03_trial_distribution_by_therapeutic_area.png)](figures/analysis03_trial_distribution_by_therapeutic_area.png)
+[![analysis3](figures/analysis3_trial_distribution_by_therapeutic_area.png)](figures/analysis3_trial_distribution_by_therapeutic_area.png)
 
 ### Analysis 4 — Completion and Termination Rates by Phase
-[![analysis4](figures/analysis04_completion_termination_by_phase.png)](figures/analysis04_completion_termination_by_phase.png)
+[![analysis4](figures/analysis4_completion_termination_by_phase.png)](figures/analysis4_completion_termination_by_phase.png)
 
 ### Analysis 5 — Top 20 Most Active Sponsors
-[![analysis5](figures/analysis05_top_sponsors.png)](figures/analysis05_top_sponsors.png)
+[![analysis5](figures/analysis5_top_sponsors.png)](figures/analysis5_top_sponsors.png)
 
 ### Analysis 6 — Trial Activity Trend by Year
-[![analysis6](figures/analysis06_trial_activity_trend.png)](figures/analysis06_trial_activity_trend.png)
+[![analysis6](figures/analysis6_trial_activity_trend.png)](figures/analysis6_trial_activity_trend.png)
 
 ### Analysis 7 — Average Trial Duration by Phase
-[![analysis7](figures/analysis07_trial_duration_by_phase.png)](figures/analysis07_trial_duration_by_phase.png)
+[![analysis7](figures/analysis7_trial_duration_by_phase.png)](figures/analysis7_trial_duration_by_phase.png)
 
 ### Analysis 8 — Enrollment Size by Phase and Therapeutic Area
-[![analysis8](figures/analysis08_enrollment_by_phase_therapeutic_area.png)](figures/analysis08_enrollment_by_phase_therapeutic_area.png)
+[![analysis8](figures/analysis8_enrollment_by_phase_therapeutic_area.png)](figures/analysis8_enrollment_by_phase_therapeutic_area.png)
 
 ### Analysis 9 — Termination Rates by Therapeutic Area
-[![analysis9](figures/analysis09_termination_by_therapeutic_area.png)](figures/analysis09_termination_by_therapeutic_area.png)
+[![analysis9](figures/analysis9_termination_by_therapeutic_area.png)](figures/analysis9_termination_by_therapeutic_area.png)
 
 ### Analysis 10 — Phase Transition Funnel
 [![analysis10](figures/analysis10_phase_transition_funnel.png)](figures/analysis10_phase_transition_funnel.png)
