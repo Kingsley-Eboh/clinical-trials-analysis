@@ -1,0 +1,6 @@
+phase_label,total_trials,completed,terminated,withdrawn,avg_enrollment,avg_duration,completion_rate,termination_rate,phase_order
+Early Phase 1,700,479,70,66,43.0,29.9,68.4,10.0,1
+Phase 1,7144,5126,986,367,48.0,25.3,71.8,13.8,2
+Phase 2,6289,3880,1057,479,117.0,35.4,61.7,16.8,3
+Phase 3,3471,2390,422,175,590.0,35.1,68.9,12.2,4
+Phase 4,2924,2233,317,223,826.0,25.5,76.4,10.8,5
