@@ -9,7 +9,7 @@
 ![Analyses](https://img.shields.io/badge/Analyses-13-blue)
 ![SQL](https://img.shields.io/badge/SQL_Queries-10-orange)
 ![Dashboard](https://img.shields.io/badge/Dashboard-2_Pages-yellow)
-![Status](https://img.shields.io/badge/Status-In_Progress-orange)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 # Clinical Trials Analysis
 ## Phase Completion Rates, Sponsor Performance and Recruitment Trends | January 2015 to December 2024
