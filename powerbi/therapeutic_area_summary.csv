@@ -1,18 +1,18 @@
 therapeutic_area,total_trials,completed,terminated,withdrawn,avg_enrollment,avg_duration,completion_rate,termination_rate
-Oncology,7063,3836,1264,499,235.0,45.1,54.3,17.9
-Psychiatry and Mental Health,3352,2771,224,143,277.0,23.7,82.7,6.7
-Cardiovascular,2769,2160,239,146,1756.0,26.8,78.0,8.6
-Metabolic and Endocrine,2594,2187,151,97,252.0,22.0,84.3,5.8
-Pain and Anaesthesia,2265,1974,127,96,103.0,17.3,87.2,5.6
-Healthy Volunteer Studies,2166,2005,75,46,77.0,10.2,92.6,3.5
-Neurology,1954,1578,170,66,282.0,26.6,80.8,8.7
-Respiratory,1444,1135,168,68,261.0,23.0,78.6,11.6
-Musculoskeletal,1424,1141,112,66,141.0,26.6,80.1,7.9
-Vaccines,1335,1012,176,93,6031.0,16.5,75.8,13.2
-Infectious Disease,1300,1043,102,71,1053.0,25.9,80.2,7.8
-Gastroenterology and Renal,1295,994,144,69,219.0,26.1,76.8,11.1
-Dermatology,872,723,75,33,187.0,19.1,82.9,8.6
-Ophthalmology,707,571,56,32,125.0,21.0,80.8,7.9
-Oral Health,591,527,11,11,128.0,20.0,89.2,1.9
-Obstetrics and Gynaecology,450,378,31,16,639.0,24.4,84.0,6.9
-Urology,241,186,21,14,104.0,23.2,77.2,8.7
+Oncology,23100,12436,4095,1704,217.0,45.3,53.8,17.7
+Psychiatry and Mental Health,11147,9252,757,478,315.0,23.8,83.0,6.8
+Cardiovascular,9068,7113,770,484,1275.0,26.3,78.4,8.5
+Metabolic and Endocrine,8599,7224,499,334,248.0,22.8,84.0,5.8
+Pain and Anaesthesia,7409,6526,394,279,138.0,17.2,88.1,5.3
+Healthy Volunteer Studies,7290,6745,260,134,95.0,10.4,92.5,3.6
+Neurology,6388,5103,553,264,180.0,26.1,79.9,8.7
+Respiratory,4907,3844,543,252,452.0,23.4,78.3,11.1
+Musculoskeletal,4659,3740,359,221,166.0,26.3,80.3,7.7
+Infectious Disease,4437,3615,332,208,1307.0,25.4,81.5,7.5
+Vaccines,4420,3398,532,304,5644.0,16.6,76.9,12.0
+Gastroenterology and Renal,4095,3104,475,228,223.0,26.6,75.8,11.6
+Dermatology,2680,2214,207,121,161.0,18.3,82.6,7.7
+Ophthalmology,2309,1885,181,91,156.0,20.5,81.6,7.8
+Oral Health,1996,1788,46,34,104.0,20.8,89.6,2.3
+Obstetrics and Gynaecology,1513,1263,118,54,522.0,24.3,83.5,7.8
+Urology,777,603,74,50,150.0,22.3,77.6,9.5

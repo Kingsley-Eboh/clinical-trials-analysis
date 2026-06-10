@@ -1,266 +1,307 @@
 sponsor,therapeutic_area,trial_count,sponsor_total,concentration_pct
-Ain Shams University,Pain and Anaesthesia,32,220,14.5
-Ain Shams University,Gastroenterology and Renal,11,220,5.0
-Ain Shams University,Musculoskeletal,11,220,5.0
-Ain Shams University,Oral Health,10,220,4.5
-Ain Shams University,Cardiovascular,8,220,3.6
-Ain Shams University,Infectious Disease,6,220,2.7
-Ain Shams University,Metabolic and Endocrine,4,220,1.8
-Ain Shams University,Psychiatry and Mental Health,3,220,1.4
-Ain Shams University,Respiratory,3,220,1.4
-Ain Shams University,Vaccines,3,220,1.4
-Ain Shams University,Obstetrics and Gynaecology,2,220,0.9
-Ain Shams University,Oncology,2,220,0.9
-Ain Shams University,Ophthalmology,2,220,0.9
-Ain Shams University,Healthy Volunteer Studies,1,220,0.5
-Ain Shams University,Neurology,1,220,0.5
-Ain Shams University,Urology,1,220,0.5
-AstraZeneca,Oncology,64,220,29.1
-AstraZeneca,Respiratory,40,220,18.2
-AstraZeneca,Cardiovascular,24,220,10.9
-AstraZeneca,Healthy Volunteer Studies,22,220,10.0
-AstraZeneca,Metabolic and Endocrine,17,220,7.7
-AstraZeneca,Gastroenterology and Renal,13,220,5.9
-AstraZeneca,Vaccines,6,220,2.7
-AstraZeneca,Neurology,1,220,0.5
-AstraZeneca,Psychiatry and Mental Health,1,220,0.5
-Cairo University,Pain and Anaesthesia,49,396,12.4
-Cairo University,Oral Health,35,396,8.8
-Cairo University,Musculoskeletal,26,396,6.6
-Cairo University,Cardiovascular,15,396,3.8
-Cairo University,Neurology,15,396,3.8
-Cairo University,Metabolic and Endocrine,14,396,3.5
-Cairo University,Respiratory,13,396,3.3
-Cairo University,Gastroenterology and Renal,9,396,2.3
-Cairo University,Dermatology,8,396,2.0
-Cairo University,Psychiatry and Mental Health,6,396,1.5
-Cairo University,Oncology,4,396,1.0
-Cairo University,Infectious Disease,3,396,0.8
-Cairo University,Obstetrics and Gynaecology,3,396,0.8
-Cairo University,Urology,3,396,0.8
-Cairo University,Ophthalmology,2,396,0.5
-Cairo University,Vaccines,2,396,0.5
-Duke University,Oncology,28,233,12.0
-Duke University,Cardiovascular,26,233,11.2
-Duke University,Psychiatry and Mental Health,21,233,9.0
-Duke University,Infectious Disease,12,233,5.2
-Duke University,Pain and Anaesthesia,12,233,5.2
-Duke University,Metabolic and Endocrine,10,233,4.3
-Duke University,Respiratory,7,233,3.0
-Duke University,Vaccines,7,233,3.0
-Duke University,Gastroenterology and Renal,6,233,2.6
-Duke University,Musculoskeletal,4,233,1.7
-Duke University,Neurology,4,233,1.7
-Duke University,Healthy Volunteer Studies,3,233,1.3
-Duke University,Ophthalmology,3,233,1.3
-Duke University,Obstetrics and Gynaecology,1,233,0.4
-Duke University,Urology,1,233,0.4
-Eli Lilly and Company,Healthy Volunteer Studies,67,221,30.3
-Eli Lilly and Company,Metabolic and Endocrine,42,221,19.0
-Eli Lilly and Company,Oncology,39,221,17.6
-Eli Lilly and Company,Dermatology,18,221,8.1
-Eli Lilly and Company,Neurology,15,221,6.8
-Eli Lilly and Company,Musculoskeletal,8,221,3.6
-Eli Lilly and Company,Gastroenterology and Renal,7,221,3.2
-Eli Lilly and Company,Pain and Anaesthesia,6,221,2.7
-Eli Lilly and Company,Vaccines,4,221,1.8
-Eli Lilly and Company,Cardiovascular,2,221,0.9
-GlaxoSmithKline,Respiratory,45,207,21.7
-GlaxoSmithKline,Oncology,18,207,8.7
-GlaxoSmithKline,Dermatology,15,207,7.2
-GlaxoSmithKline,Infectious Disease,15,207,7.2
-GlaxoSmithKline,Metabolic and Endocrine,10,207,4.8
-GlaxoSmithKline,Vaccines,10,207,4.8
-GlaxoSmithKline,Musculoskeletal,9,207,4.3
-GlaxoSmithKline,Pain and Anaesthesia,6,207,2.9
-GlaxoSmithKline,Cardiovascular,5,207,2.4
-GlaxoSmithKline,Psychiatry and Mental Health,5,207,2.4
-GlaxoSmithKline,Gastroenterology and Renal,3,207,1.4
-GlaxoSmithKline,Healthy Volunteer Studies,2,207,1.0
-GlaxoSmithKline,Oral Health,2,207,1.0
-GlaxoSmithKline,Obstetrics and Gynaecology,1,207,0.5
-GlaxoSmithKline,Urology,1,207,0.5
-Johns Hopkins University,Psychiatry and Mental Health,20,200,10.0
-Johns Hopkins University,Neurology,19,200,9.5
-Johns Hopkins University,Cardiovascular,17,200,8.5
-Johns Hopkins University,Infectious Disease,14,200,7.0
-Johns Hopkins University,Metabolic and Endocrine,10,200,5.0
-Johns Hopkins University,Pain and Anaesthesia,10,200,5.0
-Johns Hopkins University,Respiratory,8,200,4.0
-Johns Hopkins University,Oncology,5,200,2.5
-Johns Hopkins University,Vaccines,5,200,2.5
-Johns Hopkins University,Ophthalmology,4,200,2.0
-Johns Hopkins University,Dermatology,3,200,1.5
-Johns Hopkins University,Musculoskeletal,3,200,1.5
-Johns Hopkins University,Gastroenterology and Renal,2,200,1.0
-Johns Hopkins University,Obstetrics and Gynaecology,1,200,0.5
-Johns Hopkins University,Urology,1,200,0.5
-M.D. Anderson Cancer Center,Oncology,198,253,78.3
-M.D. Anderson Cancer Center,Psychiatry and Mental Health,5,253,2.0
-M.D. Anderson Cancer Center,Neurology,3,253,1.2
-M.D. Anderson Cancer Center,Vaccines,3,253,1.2
-M.D. Anderson Cancer Center,Healthy Volunteer Studies,2,253,0.8
-M.D. Anderson Cancer Center,Cardiovascular,1,253,0.4
-M.D. Anderson Cancer Center,Gastroenterology and Renal,1,253,0.4
-M.D. Anderson Cancer Center,Metabolic and Endocrine,1,253,0.4
-M.D. Anderson Cancer Center,Musculoskeletal,1,253,0.4
-M.D. Anderson Cancer Center,Pain and Anaesthesia,1,253,0.4
-M.D. Anderson Cancer Center,Respiratory,1,253,0.4
-M.D. Anderson Cancer Center,Urology,1,253,0.4
-Massachusetts General Hospital,Oncology,38,246,15.4
-Massachusetts General Hospital,Psychiatry and Mental Health,38,246,15.4
-Massachusetts General Hospital,Neurology,14,246,5.7
-Massachusetts General Hospital,Infectious Disease,13,246,5.3
-Massachusetts General Hospital,Cardiovascular,12,246,4.9
-Massachusetts General Hospital,Metabolic and Endocrine,11,246,4.5
-Massachusetts General Hospital,Gastroenterology and Renal,10,246,4.1
-Massachusetts General Hospital,Pain and Anaesthesia,10,246,4.1
-Massachusetts General Hospital,Musculoskeletal,7,246,2.8
-Massachusetts General Hospital,Respiratory,7,246,2.8
-Massachusetts General Hospital,Vaccines,3,246,1.2
-Massachusetts General Hospital,Dermatology,2,246,0.8
-Massachusetts General Hospital,Healthy Volunteer Studies,2,246,0.8
-Massachusetts General Hospital,Obstetrics and Gynaecology,1,246,0.4
-Mayo Clinic,Oncology,76,329,23.1
-Mayo Clinic,Cardiovascular,27,329,8.2
-Mayo Clinic,Metabolic and Endocrine,27,329,8.2
-Mayo Clinic,Psychiatry and Mental Health,15,329,4.6
-Mayo Clinic,Pain and Anaesthesia,13,329,4.0
-Mayo Clinic,Gastroenterology and Renal,11,329,3.3
-Mayo Clinic,Musculoskeletal,10,329,3.0
-Mayo Clinic,Neurology,8,329,2.4
-Mayo Clinic,Healthy Volunteer Studies,6,329,1.8
-Mayo Clinic,Vaccines,5,329,1.5
-Mayo Clinic,Respiratory,4,329,1.2
-Mayo Clinic,Dermatology,3,329,0.9
-Mayo Clinic,Urology,3,329,0.9
-Mayo Clinic,Infectious Disease,2,329,0.6
-Mayo Clinic,Obstetrics and Gynaecology,1,329,0.3
-National Cancer Institute (NCI),Oncology,176,199,88.4
-National Cancer Institute (NCI),Gastroenterology and Renal,1,199,0.5
-National Cancer Institute (NCI),Infectious Disease,1,199,0.5
-National Cancer Institute (NCI),Respiratory,1,199,0.5
-Novartis Pharmaceuticals,Oncology,71,238,29.8
-Novartis Pharmaceuticals,Cardiovascular,21,238,8.8
-Novartis Pharmaceuticals,Respiratory,16,238,6.7
-Novartis Pharmaceuticals,Neurology,15,238,6.3
-Novartis Pharmaceuticals,Dermatology,12,238,5.0
-Novartis Pharmaceuticals,Metabolic and Endocrine,9,238,3.8
-Novartis Pharmaceuticals,Ophthalmology,9,238,3.8
-Novartis Pharmaceuticals,Infectious Disease,8,238,3.4
-Novartis Pharmaceuticals,Musculoskeletal,8,238,3.4
-Novartis Pharmaceuticals,Gastroenterology and Renal,5,238,2.1
-Novartis Pharmaceuticals,Vaccines,4,238,1.7
-Novartis Pharmaceuticals,Healthy Volunteer Studies,3,238,1.3
-Novartis Pharmaceuticals,Pain and Anaesthesia,2,238,0.8
-Novartis Pharmaceuticals,Psychiatry and Mental Health,2,238,0.8
-Pfizer,Healthy Volunteer Studies,69,240,28.7
-Pfizer,Oncology,41,240,17.1
-Pfizer,Vaccines,24,240,10.0
-Pfizer,Gastroenterology and Renal,14,240,5.8
-Pfizer,Dermatology,11,240,4.6
-Pfizer,Respiratory,8,240,3.3
-Pfizer,Metabolic and Endocrine,7,240,2.9
-Pfizer,Infectious Disease,5,240,2.1
-Pfizer,Musculoskeletal,5,240,2.1
-Pfizer,Pain and Anaesthesia,5,240,2.1
-Pfizer,Neurology,4,240,1.7
-Pfizer,Psychiatry and Mental Health,4,240,1.7
-Pfizer,Cardiovascular,2,240,0.8
-Riphah International University,Cardiovascular,40,334,12.0
-Riphah International University,Pain and Anaesthesia,36,334,10.8
-Riphah International University,Musculoskeletal,26,334,7.8
-Riphah International University,Neurology,25,334,7.5
-Riphah International University,Respiratory,14,334,4.2
-Riphah International University,Psychiatry and Mental Health,10,334,3.0
-Riphah International University,Metabolic and Endocrine,9,334,2.7
-Riphah International University,Dermatology,5,334,1.5
-Riphah International University,Healthy Volunteer Studies,3,334,0.9
-Riphah International University,Oncology,2,334,0.6
-Riphah International University,Obstetrics and Gynaecology,1,334,0.3
-Riphah International University,Vaccines,1,334,0.3
-Stanford University,Psychiatry and Mental Health,33,212,15.6
-Stanford University,Oncology,23,212,10.8
-Stanford University,Pain and Anaesthesia,13,212,6.1
-Stanford University,Metabolic and Endocrine,12,212,5.7
-Stanford University,Vaccines,11,212,5.2
-Stanford University,Cardiovascular,8,212,3.8
-Stanford University,Gastroenterology and Renal,5,212,2.4
-Stanford University,Musculoskeletal,5,212,2.4
-Stanford University,Healthy Volunteer Studies,3,212,1.4
-Stanford University,Infectious Disease,3,212,1.4
-Stanford University,Obstetrics and Gynaecology,3,212,1.4
-Stanford University,Ophthalmology,2,212,0.9
-Stanford University,Dermatology,1,212,0.5
-Stanford University,Neurology,1,212,0.5
-"University of California, San Francisco",Oncology,30,213,14.1
-"University of California, San Francisco",Psychiatry and Mental Health,26,213,12.2
-"University of California, San Francisco",Infectious Disease,24,213,11.3
-"University of California, San Francisco",Neurology,13,213,6.1
-"University of California, San Francisco",Cardiovascular,9,213,4.2
-"University of California, San Francisco",Respiratory,9,213,4.2
-"University of California, San Francisco",Gastroenterology and Renal,4,213,1.9
-"University of California, San Francisco",Metabolic and Endocrine,4,213,1.9
-"University of California, San Francisco",Obstetrics and Gynaecology,4,213,1.9
-"University of California, San Francisco",Pain and Anaesthesia,4,213,1.9
-"University of California, San Francisco",Vaccines,4,213,1.9
-"University of California, San Francisco",Healthy Volunteer Studies,3,213,1.4
-"University of California, San Francisco",Musculoskeletal,2,213,0.9
-"University of California, San Francisco",Ophthalmology,2,213,0.9
-"University of California, San Francisco",Urology,1,213,0.5
-University of Michigan,Psychiatry and Mental Health,23,189,12.2
-University of Michigan,Cardiovascular,15,189,7.9
-University of Michigan,Metabolic and Endocrine,15,189,7.9
-University of Michigan,Neurology,15,189,7.9
-University of Michigan,Pain and Anaesthesia,12,189,6.3
-University of Michigan,Gastroenterology and Renal,9,189,4.8
-University of Michigan,Infectious Disease,5,189,2.6
-University of Michigan,Respiratory,5,189,2.6
-University of Michigan,Musculoskeletal,4,189,2.1
-University of Michigan,Oncology,4,189,2.1
-University of Michigan,Oral Health,4,189,2.1
-University of Michigan,Healthy Volunteer Studies,2,189,1.1
-University of Michigan,Urology,2,189,1.1
-University of Michigan,Obstetrics and Gynaecology,1,189,0.5
-University of Michigan,Ophthalmology,1,189,0.5
-University of Michigan,Vaccines,1,189,0.5
-VA Office of Research and Development,Psychiatry and Mental Health,55,201,27.4
-VA Office of Research and Development,Neurology,33,201,16.4
-VA Office of Research and Development,Pain and Anaesthesia,17,201,8.5
-VA Office of Research and Development,Metabolic and Endocrine,13,201,6.5
-VA Office of Research and Development,Cardiovascular,9,201,4.5
-VA Office of Research and Development,Oncology,5,201,2.5
-VA Office of Research and Development,Gastroenterology and Renal,3,201,1.5
-VA Office of Research and Development,Respiratory,2,201,1.0
-VA Office of Research and Development,Vaccines,2,201,1.0
-VA Office of Research and Development,Infectious Disease,1,201,0.5
-VA Office of Research and Development,Musculoskeletal,1,201,0.5
-VA Office of Research and Development,Urology,1,201,0.5
-Washington University School of Medicine,Oncology,75,229,32.8
-Washington University School of Medicine,Metabolic and Endocrine,14,229,6.1
-Washington University School of Medicine,Psychiatry and Mental Health,13,229,5.7
-Washington University School of Medicine,Neurology,10,229,4.4
-Washington University School of Medicine,Cardiovascular,9,229,3.9
-Washington University School of Medicine,Infectious Disease,8,229,3.5
-Washington University School of Medicine,Pain and Anaesthesia,6,229,2.6
-Washington University School of Medicine,Healthy Volunteer Studies,5,229,2.2
-Washington University School of Medicine,Gastroenterology and Renal,4,229,1.7
-Washington University School of Medicine,Vaccines,4,229,1.7
-Washington University School of Medicine,Obstetrics and Gynaecology,2,229,0.9
-Washington University School of Medicine,Respiratory,2,229,0.9
-Washington University School of Medicine,Dermatology,1,229,0.4
-Washington University School of Medicine,Musculoskeletal,1,229,0.4
-Washington University School of Medicine,Oral Health,1,229,0.4
-Yale University,Psychiatry and Mental Health,56,212,26.4
-Yale University,Oncology,22,212,10.4
-Yale University,Infectious Disease,14,212,6.6
-Yale University,Metabolic and Endocrine,14,212,6.6
-Yale University,Cardiovascular,11,212,5.2
-Yale University,Neurology,11,212,5.2
-Yale University,Gastroenterology and Renal,5,212,2.4
-Yale University,Pain and Anaesthesia,5,212,2.4
-Yale University,Vaccines,4,212,1.9
-Yale University,Healthy Volunteer Studies,3,212,1.4
-Yale University,Dermatology,2,212,0.9
-Yale University,Obstetrics and Gynaecology,1,212,0.5
-Yale University,Respiratory,1,212,0.5
+Ain Shams University,Pain and Anaesthesia,105,737,14.2
+Ain Shams University,Musculoskeletal,40,737,5.4
+Ain Shams University,Oral Health,36,737,4.9
+Ain Shams University,Gastroenterology and Renal,27,737,3.7
+Ain Shams University,Metabolic and Endocrine,27,737,3.7
+Ain Shams University,Cardiovascular,22,737,3.0
+Ain Shams University,Infectious Disease,22,737,3.0
+Ain Shams University,Respiratory,21,737,2.8
+Ain Shams University,Oncology,15,737,2.0
+Ain Shams University,Psychiatry and Mental Health,13,737,1.8
+Ain Shams University,Vaccines,11,737,1.5
+Ain Shams University,Obstetrics and Gynaecology,10,737,1.4
+Ain Shams University,Neurology,8,737,1.1
+Ain Shams University,Urology,5,737,0.7
+Ain Shams University,Healthy Volunteer Studies,4,737,0.5
+Ain Shams University,Dermatology,3,737,0.4
+Ain Shams University,Ophthalmology,2,737,0.3
+AstraZeneca,Oncology,222,754,29.4
+AstraZeneca,Respiratory,127,754,16.8
+AstraZeneca,Healthy Volunteer Studies,78,754,10.3
+AstraZeneca,Cardiovascular,55,754,7.3
+AstraZeneca,Metabolic and Endocrine,50,754,6.6
+AstraZeneca,Gastroenterology and Renal,45,754,6.0
+AstraZeneca,Vaccines,28,754,3.7
+AstraZeneca,Pain and Anaesthesia,6,754,0.8
+AstraZeneca,Psychiatry and Mental Health,6,754,0.8
+AstraZeneca,Dermatology,5,754,0.7
+AstraZeneca,Neurology,5,754,0.7
+AstraZeneca,Musculoskeletal,3,754,0.4
+AstraZeneca,Infectious Disease,1,754,0.1
+Cairo University,Pain and Anaesthesia,135,1277,10.6
+Cairo University,Oral Health,112,1277,8.8
+Cairo University,Musculoskeletal,71,1277,5.6
+Cairo University,Neurology,54,1277,4.2
+Cairo University,Cardiovascular,42,1277,3.3
+Cairo University,Metabolic and Endocrine,41,1277,3.2
+Cairo University,Respiratory,33,1277,2.6
+Cairo University,Oncology,29,1277,2.3
+Cairo University,Dermatology,28,1277,2.2
+Cairo University,Gastroenterology and Renal,22,1277,1.7
+Cairo University,Obstetrics and Gynaecology,19,1277,1.5
+Cairo University,Psychiatry and Mental Health,17,1277,1.3
+Cairo University,Ophthalmology,9,1277,0.7
+Cairo University,Vaccines,9,1277,0.7
+Cairo University,Infectious Disease,7,1277,0.5
+Cairo University,Urology,7,1277,0.5
+Cairo University,Healthy Volunteer Studies,2,1277,0.2
+Duke University,Oncology,98,760,12.9
+Duke University,Psychiatry and Mental Health,79,760,10.4
+Duke University,Cardiovascular,62,760,8.2
+Duke University,Metabolic and Endocrine,40,760,5.3
+Duke University,Pain and Anaesthesia,37,760,4.9
+Duke University,Infectious Disease,30,760,3.9
+Duke University,Vaccines,29,760,3.8
+Duke University,Respiratory,23,760,3.0
+Duke University,Gastroenterology and Renal,18,760,2.4
+Duke University,Musculoskeletal,18,760,2.4
+Duke University,Neurology,15,760,2.0
+Duke University,Healthy Volunteer Studies,12,760,1.6
+Duke University,Ophthalmology,9,760,1.2
+Duke University,Obstetrics and Gynaecology,5,760,0.7
+Duke University,Urology,2,760,0.3
+Duke University,Dermatology,1,760,0.1
+Eli Lilly and Company,Healthy Volunteer Studies,246,736,33.4
+Eli Lilly and Company,Metabolic and Endocrine,159,736,21.6
+Eli Lilly and Company,Oncology,117,736,15.9
+Eli Lilly and Company,Neurology,51,736,6.9
+Eli Lilly and Company,Dermatology,50,736,6.8
+Eli Lilly and Company,Gastroenterology and Renal,23,736,3.1
+Eli Lilly and Company,Musculoskeletal,22,736,3.0
+Eli Lilly and Company,Pain and Anaesthesia,10,736,1.4
+Eli Lilly and Company,Vaccines,10,736,1.4
+Eli Lilly and Company,Cardiovascular,5,736,0.7
+Eli Lilly and Company,Psychiatry and Mental Health,1,736,0.1
+GlaxoSmithKline,Respiratory,156,680,22.9
+GlaxoSmithKline,Oncology,76,680,11.2
+GlaxoSmithKline,Vaccines,65,680,9.6
+GlaxoSmithKline,Infectious Disease,50,680,7.4
+GlaxoSmithKline,Dermatology,35,680,5.1
+GlaxoSmithKline,Metabolic and Endocrine,29,680,4.3
+GlaxoSmithKline,Musculoskeletal,15,680,2.2
+GlaxoSmithKline,Oral Health,12,680,1.8
+GlaxoSmithKline,Cardiovascular,11,680,1.6
+GlaxoSmithKline,Gastroenterology and Renal,11,680,1.6
+GlaxoSmithKline,Pain and Anaesthesia,11,680,1.6
+GlaxoSmithKline,Healthy Volunteer Studies,9,680,1.3
+GlaxoSmithKline,Psychiatry and Mental Health,8,680,1.2
+GlaxoSmithKline,Obstetrics and Gynaecology,4,680,0.6
+GlaxoSmithKline,Neurology,3,680,0.4
+GlaxoSmithKline,Urology,2,680,0.3
+GlaxoSmithKline,Ophthalmology,1,680,0.1
+Johns Hopkins University,Psychiatry and Mental Health,59,670,8.8
+Johns Hopkins University,Infectious Disease,54,670,8.1
+Johns Hopkins University,Neurology,49,670,7.3
+Johns Hopkins University,Cardiovascular,47,670,7.0
+Johns Hopkins University,Metabolic and Endocrine,31,670,4.6
+Johns Hopkins University,Pain and Anaesthesia,27,670,4.0
+Johns Hopkins University,Respiratory,27,670,4.0
+Johns Hopkins University,Oncology,23,670,3.4
+Johns Hopkins University,Healthy Volunteer Studies,18,670,2.7
+Johns Hopkins University,Vaccines,17,670,2.5
+Johns Hopkins University,Gastroenterology and Renal,13,670,1.9
+Johns Hopkins University,Musculoskeletal,10,670,1.5
+Johns Hopkins University,Ophthalmology,10,670,1.5
+Johns Hopkins University,Dermatology,7,670,1.0
+Johns Hopkins University,Obstetrics and Gynaecology,3,670,0.4
+Johns Hopkins University,Urology,3,670,0.4
+M.D. Anderson Cancer Center,Oncology,676,855,79.1
+M.D. Anderson Cancer Center,Psychiatry and Mental Health,13,855,1.5
+M.D. Anderson Cancer Center,Respiratory,9,855,1.1
+M.D. Anderson Cancer Center,Gastroenterology and Renal,7,855,0.8
+M.D. Anderson Cancer Center,Neurology,6,855,0.7
+M.D. Anderson Cancer Center,Vaccines,5,855,0.6
+M.D. Anderson Cancer Center,Musculoskeletal,4,855,0.5
+M.D. Anderson Cancer Center,Healthy Volunteer Studies,3,855,0.4
+M.D. Anderson Cancer Center,Metabolic and Endocrine,3,855,0.4
+M.D. Anderson Cancer Center,Pain and Anaesthesia,3,855,0.4
+M.D. Anderson Cancer Center,Cardiovascular,2,855,0.2
+M.D. Anderson Cancer Center,Infectious Disease,2,855,0.2
+M.D. Anderson Cancer Center,Urology,1,855,0.1
+Massachusetts General Hospital,Oncology,150,787,19.1
+Massachusetts General Hospital,Psychiatry and Mental Health,127,787,16.1
+Massachusetts General Hospital,Metabolic and Endocrine,42,787,5.3
+Massachusetts General Hospital,Cardiovascular,41,787,5.2
+Massachusetts General Hospital,Neurology,36,787,4.6
+Massachusetts General Hospital,Infectious Disease,33,787,4.2
+Massachusetts General Hospital,Pain and Anaesthesia,29,787,3.7
+Massachusetts General Hospital,Gastroenterology and Renal,26,787,3.3
+Massachusetts General Hospital,Musculoskeletal,22,787,2.8
+Massachusetts General Hospital,Respiratory,20,787,2.5
+Massachusetts General Hospital,Healthy Volunteer Studies,10,787,1.3
+Massachusetts General Hospital,Vaccines,8,787,1.0
+Massachusetts General Hospital,Dermatology,4,787,0.5
+Massachusetts General Hospital,Obstetrics and Gynaecology,4,787,0.5
+Massachusetts General Hospital,Urology,1,787,0.1
+Mayo Clinic,Oncology,222,1039,21.4
+Mayo Clinic,Cardiovascular,79,1039,7.6
+Mayo Clinic,Metabolic and Endocrine,65,1039,6.3
+Mayo Clinic,Psychiatry and Mental Health,56,1039,5.4
+Mayo Clinic,Neurology,40,1039,3.8
+Mayo Clinic,Gastroenterology and Renal,37,1039,3.6
+Mayo Clinic,Healthy Volunteer Studies,33,1039,3.2
+Mayo Clinic,Musculoskeletal,31,1039,3.0
+Mayo Clinic,Pain and Anaesthesia,30,1039,2.9
+Mayo Clinic,Respiratory,26,1039,2.5
+Mayo Clinic,Vaccines,18,1039,1.7
+Mayo Clinic,Dermatology,9,1039,0.9
+Mayo Clinic,Infectious Disease,9,1039,0.9
+Mayo Clinic,Urology,7,1039,0.7
+Mayo Clinic,Obstetrics and Gynaecology,6,1039,0.6
+Mayo Clinic,Ophthalmology,2,1039,0.2
+NYU Langone Health,Psychiatry and Mental Health,76,622,12.2
+NYU Langone Health,Oncology,58,622,9.3
+NYU Langone Health,Neurology,54,622,8.7
+NYU Langone Health,Cardiovascular,41,622,6.6
+NYU Langone Health,Musculoskeletal,40,622,6.4
+NYU Langone Health,Metabolic and Endocrine,37,622,5.9
+NYU Langone Health,Pain and Anaesthesia,21,622,3.4
+NYU Langone Health,Gastroenterology and Renal,16,622,2.6
+NYU Langone Health,Respiratory,13,622,2.1
+NYU Langone Health,Vaccines,12,622,1.9
+NYU Langone Health,Infectious Disease,7,622,1.1
+NYU Langone Health,Dermatology,5,622,0.8
+NYU Langone Health,Obstetrics and Gynaecology,5,622,0.8
+NYU Langone Health,Ophthalmology,5,622,0.8
+NYU Langone Health,Urology,4,622,0.6
+NYU Langone Health,Healthy Volunteer Studies,3,622,0.5
+NYU Langone Health,Oral Health,1,622,0.2
+Novartis Pharmaceuticals,Oncology,199,759,26.2
+Novartis Pharmaceuticals,Respiratory,62,759,8.2
+Novartis Pharmaceuticals,Cardiovascular,61,759,8.0
+Novartis Pharmaceuticals,Neurology,40,759,5.3
+Novartis Pharmaceuticals,Dermatology,32,759,4.2
+Novartis Pharmaceuticals,Musculoskeletal,32,759,4.2
+Novartis Pharmaceuticals,Metabolic and Endocrine,31,759,4.1
+Novartis Pharmaceuticals,Ophthalmology,29,759,3.8
+Novartis Pharmaceuticals,Gastroenterology and Renal,28,759,3.7
+Novartis Pharmaceuticals,Infectious Disease,19,759,2.5
+Novartis Pharmaceuticals,Healthy Volunteer Studies,9,759,1.2
+Novartis Pharmaceuticals,Vaccines,9,759,1.2
+Novartis Pharmaceuticals,Psychiatry and Mental Health,7,759,0.9
+Novartis Pharmaceuticals,Pain and Anaesthesia,3,759,0.4
+Pfizer,Healthy Volunteer Studies,246,790,31.1
+Pfizer,Oncology,132,790,16.7
+Pfizer,Vaccines,62,790,7.8
+Pfizer,Dermatology,39,790,4.9
+Pfizer,Gastroenterology and Renal,37,790,4.7
+Pfizer,Respiratory,28,790,3.5
+Pfizer,Neurology,26,790,3.3
+Pfizer,Metabolic and Endocrine,25,790,3.2
+Pfizer,Infectious Disease,19,790,2.4
+Pfizer,Musculoskeletal,16,790,2.0
+Pfizer,Psychiatry and Mental Health,13,790,1.6
+Pfizer,Pain and Anaesthesia,9,790,1.1
+Pfizer,Cardiovascular,6,790,0.8
+Pfizer,Urology,1,790,0.1
+Riphah International University,Pain and Anaesthesia,157,1136,13.8
+Riphah International University,Cardiovascular,142,1136,12.5
+Riphah International University,Neurology,109,1136,9.6
+Riphah International University,Musculoskeletal,79,1136,7.0
+Riphah International University,Respiratory,52,1136,4.6
+Riphah International University,Psychiatry and Mental Health,30,1136,2.6
+Riphah International University,Metabolic and Endocrine,28,1136,2.5
+Riphah International University,Healthy Volunteer Studies,13,1136,1.1
+Riphah International University,Obstetrics and Gynaecology,10,1136,0.9
+Riphah International University,Dermatology,8,1136,0.7
+Riphah International University,Urology,7,1136,0.6
+Riphah International University,Vaccines,5,1136,0.4
+Riphah International University,Oncology,2,1136,0.2
+Riphah International University,Infectious Disease,1,1136,0.1
+Riphah International University,Oral Health,1,1136,0.1
+Stanford University,Psychiatry and Mental Health,101,673,15.0
+Stanford University,Oncology,73,673,10.8
+Stanford University,Pain and Anaesthesia,46,673,6.8
+Stanford University,Metabolic and Endocrine,41,673,6.1
+Stanford University,Cardiovascular,36,673,5.3
+Stanford University,Vaccines,24,673,3.6
+Stanford University,Gastroenterology and Renal,16,673,2.4
+Stanford University,Ophthalmology,15,673,2.2
+Stanford University,Musculoskeletal,14,673,2.1
+Stanford University,Healthy Volunteer Studies,12,673,1.8
+Stanford University,Neurology,12,673,1.8
+Stanford University,Obstetrics and Gynaecology,9,673,1.3
+Stanford University,Dermatology,6,673,0.9
+Stanford University,Infectious Disease,5,673,0.7
+Stanford University,Respiratory,5,673,0.7
+Stanford University,Urology,1,673,0.1
+"University of California, San Francisco",Oncology,95,720,13.2
+"University of California, San Francisco",Psychiatry and Mental Health,84,720,11.7
+"University of California, San Francisco",Infectious Disease,77,720,10.7
+"University of California, San Francisco",Cardiovascular,33,720,4.6
+"University of California, San Francisco",Neurology,33,720,4.6
+"University of California, San Francisco",Metabolic and Endocrine,28,720,3.9
+"University of California, San Francisco",Gastroenterology and Renal,20,720,2.8
+"University of California, San Francisco",Pain and Anaesthesia,17,720,2.4
+"University of California, San Francisco",Respiratory,16,720,2.2
+"University of California, San Francisco",Healthy Volunteer Studies,12,720,1.7
+"University of California, San Francisco",Obstetrics and Gynaecology,12,720,1.7
+"University of California, San Francisco",Ophthalmology,11,720,1.5
+"University of California, San Francisco",Vaccines,11,720,1.5
+"University of California, San Francisco",Dermatology,9,720,1.2
+"University of California, San Francisco",Oral Health,7,720,1.0
+"University of California, San Francisco",Musculoskeletal,6,720,0.8
+"University of California, San Francisco",Urology,2,720,0.3
+University of Pennsylvania,Oncology,74,621,11.9
+University of Pennsylvania,Psychiatry and Mental Health,74,621,11.9
+University of Pennsylvania,Cardiovascular,73,621,11.8
+University of Pennsylvania,Metabolic and Endocrine,37,621,6.0
+University of Pennsylvania,Gastroenterology and Renal,30,621,4.8
+University of Pennsylvania,Vaccines,29,621,4.7
+University of Pennsylvania,Infectious Disease,26,621,4.2
+University of Pennsylvania,Neurology,24,621,3.9
+University of Pennsylvania,Healthy Volunteer Studies,17,621,2.7
+University of Pennsylvania,Respiratory,11,621,1.8
+University of Pennsylvania,Musculoskeletal,9,621,1.4
+University of Pennsylvania,Pain and Anaesthesia,9,621,1.4
+University of Pennsylvania,Obstetrics and Gynaecology,6,621,1.0
+University of Pennsylvania,Dermatology,5,621,0.8
+University of Pennsylvania,Oral Health,4,621,0.6
+University of Pennsylvania,Urology,3,621,0.5
+University of Pennsylvania,Ophthalmology,2,621,0.3
+VA Office of Research and Development,Psychiatry and Mental Health,216,735,29.4
+VA Office of Research and Development,Neurology,87,735,11.8
+VA Office of Research and Development,Cardiovascular,59,735,8.0
+VA Office of Research and Development,Pain and Anaesthesia,42,735,5.7
+VA Office of Research and Development,Metabolic and Endocrine,40,735,5.4
+VA Office of Research and Development,Oncology,19,735,2.6
+VA Office of Research and Development,Musculoskeletal,16,735,2.2
+VA Office of Research and Development,Respiratory,12,735,1.6
+VA Office of Research and Development,Gastroenterology and Renal,11,735,1.5
+VA Office of Research and Development,Vaccines,11,735,1.5
+VA Office of Research and Development,Infectious Disease,5,735,0.7
+VA Office of Research and Development,Urology,3,735,0.4
+VA Office of Research and Development,Ophthalmology,1,735,0.1
+Washington University School of Medicine,Oncology,218,706,30.9
+Washington University School of Medicine,Psychiatry and Mental Health,46,706,6.5
+Washington University School of Medicine,Neurology,45,706,6.4
+Washington University School of Medicine,Metabolic and Endocrine,38,706,5.4
+Washington University School of Medicine,Infectious Disease,26,706,3.7
+Washington University School of Medicine,Cardiovascular,24,706,3.4
+Washington University School of Medicine,Vaccines,21,706,3.0
+Washington University School of Medicine,Pain and Anaesthesia,18,706,2.5
+Washington University School of Medicine,Obstetrics and Gynaecology,11,706,1.6
+Washington University School of Medicine,Gastroenterology and Renal,10,706,1.4
+Washington University School of Medicine,Respiratory,10,706,1.4
+Washington University School of Medicine,Musculoskeletal,9,706,1.3
+Washington University School of Medicine,Healthy Volunteer Studies,8,706,1.1
+Washington University School of Medicine,Oral Health,4,706,0.6
+Washington University School of Medicine,Ophthalmology,3,706,0.4
+Washington University School of Medicine,Dermatology,1,706,0.1
+Yale University,Psychiatry and Mental Health,153,639,23.9
+Yale University,Oncology,60,639,9.4
+Yale University,Metabolic and Endocrine,52,639,8.1
+Yale University,Cardiovascular,34,639,5.3
+Yale University,Infectious Disease,28,639,4.4
+Yale University,Gastroenterology and Renal,14,639,2.2
+Yale University,Neurology,14,639,2.2
+Yale University,Vaccines,13,639,2.0
+Yale University,Pain and Anaesthesia,11,639,1.7
+Yale University,Dermatology,6,639,0.9
+Yale University,Healthy Volunteer Studies,6,639,0.9
+Yale University,Obstetrics and Gynaecology,6,639,0.9
+Yale University,Respiratory,6,639,0.9
+Yale University,Musculoskeletal,3,639,0.5
+Yale University,Urology,3,639,0.5
+Yale University,Oral Health,1,639,0.2
