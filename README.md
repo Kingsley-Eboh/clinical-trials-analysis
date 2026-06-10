@@ -17,7 +17,8 @@
 ---
 
 ## Project Overview
-This project examined 10 years of clinical trial activity across major pharmaceutical sponsors using 50,000 interventional trial records retrieved from the ClinicalTrials.gov API. The analysis covered all therapeutic areas with focus on oncology, cardiovascular, respiratory and vaccines, examining phase completion rates, sponsor performance profiles, recruitment trends and trial duration patterns across 2015 to 2024.
+This project examined 10 years of clinical trial activity across major pharmaceutical sponsors using 164,487 interventional trial records retrieved from the ClinicalTrials.gov API, representing the complete available population of interventional trials meeting the search criteria. The analysis covered all therapeutic areas with focus on oncology, cardiovascular, respiratory and vaccines, examining phase completion rates, 
+sponsor performance profiles, recruitment trends and trial duration patterns across 2015 to 2024.
 
 ---
 
@@ -44,7 +45,7 @@ This project examined 10 years of clinical trial activity across major pharmaceu
 | **Dataset** | Interventional Clinical Trials Registry |
 | **Access** | ClinicalTrials.gov API v2 |
 | **Coverage** | January 2015 to December 2024 |
-| **Records** | 50,000 interventional trial records |
+| **Records** | 164,487 interventional trial records |
 | **Frequency** | Continuously updated |
 | **Licence** | Public domain |
 
@@ -71,28 +72,51 @@ This project examined 10 years of clinical trial activity across major pharmaceu
 ## Key Findings
 
 ### Dataset Overview
-50,000 interventional clinical trial records were retrieved from the ClinicalTrials.gov API covering January 2015 to December 2024. The dataset covered 11,316 unique sponsors across 17 therapeutic areas. 78.3% of trials were completed, 8.8% were terminated and 4.8% were withdrawn. Academic sponsors accounted for 46.4% of all trial registrations and large pharmaceutical companies for 12.7%.
+164,487 interventional clinical trial records were retrieved from the ClinicalTrials.gov API covering January 2015 to December 2024. The dataset covered 22,173 unique sponsors across 17 therapeutic areas. 78.1% of trials were completed, 8.9% were terminated, 4.9% were withdrawn and 8.1% were active but not recruiting. Academic sponsors accounted for 46.5% of all trial registrations and large pharmaceutical companies for 12.6%.
 
 ### Phase Distribution and Pipeline Structure
-Phase 1 and Phase 2 trials accounted for 34.5% and 31.0% of phased trials respectively. The phase transition analysis identified Phase 2 to Phase 3 as the point of highest attrition with 54.2% of Phase 2 trials progressing to Phase 3. Phase 1 to Phase 2 transition was 89.9% and Phase 3 to Phase 4 was 84.4%. This finding was consistent across both the initial exploratory sample and the full 50,000 record dataset.
+Phase 1 and Phase 2 trials accounted for 34.4% and 30.8% of phased trials respectively. The phase transition analysis identified Phase 2 to Phase 3 as the point of highest attrition with 54.8% of Phase 2 trials progressing to Phase 3. Phase 1 to Phase 2 transition was 89.5% and Phase 3 to Phase 4 was 85.4%. Phase 2 recorded the lowest completion rate at 61.7%, the only phase to fall below the overall average of 69.8%, and the highest termination rate at 16.5%.
 
 ### Trial Status and Completion
-The overall completion rate was 78.3%. Academic sponsors recorded the highest completion rate at 81.4% and the lowest termination rate at 6.1%. Large pharmaceutical and biotech sponsors recorded the highest termination rates at 12.1% each. Completion rates declined from 84.3% in 2015 to 70.1% in 2024, a reduction of 14.2 percentage points over the 10 year period.
+The overall completion rate was 78.1%. Phase 4 recorded the highest completion rate at 76.9% and Phase 2 the lowest at 61.7%. Phase 2 also recorded the highest termination rate at 16.5% and the highest withdrawal rate at 7.8%. These findings confirm Phase 2 as the most financially and operationally risky stage of the clinical development pipeline.
 
 ### Sponsor Activity
-Cairo University was the most active sponsor with 367 registered trials. Among pharmaceutical sponsors Pfizer registered 243 trials, GlaxoSmithKline 225 and AstraZeneca 220. The sponsor concentration analysis identified the following therapeutic area focus profiles. AstraZeneca registered 44.0% of its trials in oncology and 24.0% in respiratory. GlaxoSmithKline registered 43.4% in respiratory. Pfizer registered 37.1% in oncology and 22.7% in vaccines. Eli Lilly registered 41.0% in metabolic and endocrine disease.
+Cairo University was the most active sponsor with 1,277 registered trials followed by Riphah International University with 1,136 and Mayo Clinic with 1,039. Among pharmaceutical sponsors Pfizer registered 790 trials, AstraZeneca 754 and GlaxoSmithKline 680. The sponsor concentration analysis confirmed the following therapeutic area focus profiles. AstraZeneca registered 44.1% of its trials in oncology and 25.2% in respiratory. GlaxoSmithKline registered 36.8% in respiratory and 15.3% in vaccines. Pfizer registered 39.3% in oncology and 18.5% in vaccines. Eli Lilly registered 42.4% in metabolic and endocrine disease.
 
 ### Therapeutic Area Analysis
-Oncology was the most active therapeutic area accounting for 13.9% of all trials and 21.8% of classified trials. Oncology recorded the highest termination rate at 17.7% and the highest overall attrition rate at 24.9%. Oral Health recorded the lowest termination rate at 2.5% and Healthy Volunteer Studies the lowest attrition rate at 5.7%.
+Oncology was the most active therapeutic area accounting for 14.0% of all trials and 23,100 records. Psychiatry and Mental Health was the second largest area with 11,147 trials, followed by Cardiovascular at 9,068. Oncology recorded the highest termination rate at 17.7% and the highest overall attrition rate at 25.1%. Oral Health recorded the lowest termination rate at 2.3% and Healthy Volunteer Studies the lowest attrition rate at 5.4%.
 
 ### Trial Duration
-Phase 2 trials recorded the longest average duration at 31.1 months followed by Phase 3 at 29.4 months. Phase 1 trials recorded the shortest average duration at 20.7 months. Median durations were consistently lower than mean durations across all phases.
+Phase 2 trials recorded the longest average duration at 31.2 months followed by Phase 3 at 29.8 months. Phase 1 trials recorded the shortest average duration at 20.4 months. Median durations were consistently lower than mean durations across all phases, with Phase 1 median at 12.4 months compared to a mean of 20.4 months, indicating a right-skewed distribution driven by a small number of very long trials.
 
 ### Trial Activity Trend
-Trial registrations increased from 1,724 in 2015 to a peak of 5,783 in 2021. Registrations declined in each of the three subsequent years reaching 3,586 in 2024. Vaccine trial registrations increased from 65 in 2019 to 377 in 2020. Completion rates declined from 84.3% in 2015 to 70.1% in 2024.
+Trial registrations increased from 5,660 in 2015 to a peak of 18,748 in 2021, a 231% increase over six years. Registrations declined in each of the three subsequent years, falling to 12,047 in 2024, a 20.6% year on year decline. Vaccine trial registrations surged from 123 in 2015 to 1,254 in 2020 driven by pandemic response activity. Oncology remained the dominant therapeutic area throughout the decade but recorded a consistent decline from 2018 onward.
 
 ### Enrollment
-Phase 3 trials recorded the largest average enrollment at 362 participants. Infectious Disease trials recorded the highest average enrollment by therapeutic area at 268 participants followed by Vaccines at 262. Total planned enrollment across the full dataset was 28,933,574 participants.
+Phase 3 trials recorded the largest average enrollment at 358 participants with outliers excluded. Vaccines recorded the highest average enrollment by therapeutic area at 276 participants followed by Infectious Disease at 258 and Obstetrics and Gynaecology at 213. Total planned enrollment across all 164,487 trials was 113,499,343 participants. Median enrollment across all trials was 50 participants, significantly below the mean of 690, reflecting the dominance of small Phase 1 and Phase 2 trials in the dataset.
+
+
+## Business Recommendations
+The following recommendations are drawn directly from the analytical findings and are intended to support strategic decision-making across pharmaceutical sponsors, clinical research organisations and regulatory bodies. Each recommendation is grounded in evidence from the full 164,487 record dataset.
+
+### 1. Address Phase 2 to Phase 3 Attrition as a Strategic Priority
+The analysis identified Phase 2 to Phase 3 as the point of highest pipeline attrition, with only 54.8% of Phase 2 trials progressing to Phase 3. Phase 2 also recorded the lowest completion rate at 61.7% and 
+the highest termination rate at 16.5%, confirming it as the most operationally and financially risky stage of clinical development. Sponsors should invest in more rigorous Phase 2 endpoint design and earlier biomarker validation to improve the quality of go or no-go decisions before committing to the significantly higher cost of Phase 3 development.
+
+### 2. Investigate the Post-2021 Registration Decline
+Trial registrations peaked at 18,748 in 2021 and declined by 20.6% in 2024 alone. This sustained multi-year decline warrants investigation. Possible drivers include the winding down of pandemic-related trial activity, increased regulatory scrutiny, sponsor consolidation or a shift toward larger but fewer trials. Sponsors and regulators should assess whether this trend reflects a structural contraction in pipeline activity or a temporary correction following the pandemic-era surge.
+
+### 3. Review Oncology Trial Portfolio Strategy
+Oncology accounted for 14.0% of all trials yet recorded the highest termination rate at 17.7% and the highest overall attrition rate at 25.1%. For sponsors with a heavy oncology concentration, such as M.D. Anderson Cancer Center concentrating 93.5% of its trials in oncology and AstraZeneca at 44.1%, this represents a significant capital allocation risk. A structured portfolio review should assess whether the termination rate reflects scientific failure, competitive withdrawal or regulatory challenges, and whether rebalancing toward therapeutic areas with lower attrition rates would improve overall pipeline efficiency.
+
+### 4. Address the Psychiatry and Mental Health Pipeline Gap
+Psychiatry and Mental Health was the second largest therapeutic area with 11,147 trials, yet recorded a relatively low termination rate of 6.8% and an attrition rate of 11.1%, among the lowest in the dataset. This combination of high volume and low attrition suggests a productive and underinvested area of clinical activity. Sponsors and investors should consider whether current resource allocation reflects the scale of unmet need in mental health relative to the investment flowing into oncology.
+
+### 5. Reassess Vaccine Trial Infrastructure Post-2021
+Vaccine trial registrations surged from 123 in 2015 to 1,254 in 2020 driven by pandemic response activity, before declining sharply to 194 in 2024. Sponsors and public health agencies should assess whether the trial infrastructure and regulatory pathways developed during the pandemic can be repurposed to accelerate development in other infectious disease and preventative medicine areas, rather than allowing this capacity to atrophy.
+
+### 6. Address Recruitment Planning for Large Scale Trials
+Phase 3 trials recorded the largest average enrollment at 358 participants and Vaccines the highest by therapeutic area at 276, with total planned enrollment across the dataset exceeding 113 million participants. The median enrollment of 50 participants versus a mean of 690 confirms that a small number of very large trials dominate total enrollment targets. Sponsors should invest in adaptive recruitment strategies, decentralised trial models and patient registry partnerships to reduce the risk of enrollment shortfalls in large scale trials.
 
 ---
 
